@@ -37,6 +37,8 @@
 -  Golang - 100天从新手到大师 https://github.com/rubyhan1314/Golang-100-Days
 -  泛型
 
+------
+
 ## 进阶
 
 ### 工程实践
@@ -72,6 +74,8 @@
 -  深入解析Go https://tiancaiamao.gitbooks.io/go-internals/content/zh/index.html
 -  Go Assembly 示例 https://colobu.com/goasm/
 
+----
+
 ## 社区
 
 ### Golang 中国 http://www.golangtc.com/
@@ -81,6 +85,8 @@
 ### 新功能 （部分资料比较老旧，不包含下面这些新功能，额外列出）
 
 -  Go mod
+
+---
 
 ## 资料索引
 
@@ -97,6 +103,8 @@
 ### awesome-go https://github.com/avelino/awesome-go
 
 ### Go进阶训练营 课程大纲 https://u.geekbang.org/subject/go/100060710
+
+---
 
 ## 学习建议
 
